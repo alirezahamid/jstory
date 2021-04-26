@@ -1,6 +1,6 @@
 {
   "name": "@jstory/local-client",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publishConfig": {
     "access": "public"
   },
@@ -43,7 +43,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prepublishOnly":"react-scripts build"
+    "prepublishOnly": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [

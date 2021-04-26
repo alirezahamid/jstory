@@ -17,12 +17,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jstory/local-client": "^0.1.0"
+    "@jstory/local-client": "^1.0.0"
   },
   "devDependencies": {
     "@jstory/local-api": "^1.0.0",
-    "commander": "^7.2.0",
     "@types/node": "^14.14.41",
+    "commander": "^7.2.0",
     "esbuild": "^0.11.15",
     "typescript": "^4.2.4"
   }
